@@ -5,3 +5,10 @@ C:\Users\Andrew\Desktop\lab45\EllipsePlugin\obj\Debug\EllipsePlugin.dll
 C:\Users\Andrew\Desktop\lab45\EllipsePlugin\obj\Debug\EllipsePlugin.pdb
 C:\Users\Andrew\Desktop\lab45\EllipsePlugin\bin\Debug\lab45.exe
 C:\Users\Andrew\Desktop\lab45\EllipsePlugin\bin\Debug\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\bin\Debug\EllipsePlugin.dll
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\bin\Debug\EllipsePlugin.pdb
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\bin\Debug\lab45.exe
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\bin\Debug\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\obj\Debug\EllipsePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\obj\Debug\EllipsePlugin.dll
+C:\Users\Александр\Desktop\lab45\oop\EllipsePlugin\obj\Debug\EllipsePlugin.pdb

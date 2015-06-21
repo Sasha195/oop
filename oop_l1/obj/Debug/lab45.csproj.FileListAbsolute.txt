@@ -15,3 +15,11 @@ C:\Users\Александр\Desktop\lab45\oop_l1\obj\Debug\lab45.csprojResolveAs
 C:\Users\Александр\Desktop\lab45\oop_l1\obj\Debug\lab45.Form1.resources
 C:\Users\Александр\Desktop\lab45\oop_l1\obj\Debug\lab45.Properties.Resources.resources
 C:\Users\Александр\Desktop\lab45\oop_l1\obj\Debug\lab45.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Debug\lab45.exe.config
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Debug\lab45.exe
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Debug\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Debug\lab45.exe
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Debug\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Debug\lab45.Form1.resources
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Debug\lab45.Properties.Resources.resources
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Debug\lab45.csproj.GenerateResource.Cache

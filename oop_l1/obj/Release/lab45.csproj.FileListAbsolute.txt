@@ -6,3 +6,11 @@ C:\Users\Andrew\Desktop\lab45\oop_l1\obj\Release\lab45.Form1.resources
 C:\Users\Andrew\Desktop\lab45\oop_l1\obj\Release\lab45.Properties.Resources.resources
 C:\Users\Andrew\Desktop\lab45\oop_l1\obj\Release\lab45.exe
 C:\Users\Andrew\Desktop\lab45\oop_l1\obj\Release\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Release\lab45.exe.config
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Release\lab45.exe
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Release\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Release\lab45.exe
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\bin\Release\lab45.pdb
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Release\lab45.Form1.resources
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Release\lab45.Properties.Resources.resources
+C:\Users\Александр\Desktop\lab45\oop\oop_l1\obj\Release\lab45.csproj.GenerateResource.Cache
