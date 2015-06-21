@@ -1,0 +1,7 @@
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\bin\Debug\ArchivingPlugin.dll
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\bin\Debug\ArchivingPlugin.pdb
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\obj\Debug\ArchivingPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\obj\Debug\ArchivingPlugin.dll
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\obj\Debug\ArchivingPlugin.pdb
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\bin\Debug\lab45.exe
+C:\Users\Andrew\Desktop\lab45\ArchivingPlugin\bin\Debug\lab45.pdb

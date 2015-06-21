@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab45", "oop_l1\lab45.csproj", "{79231420-6BEA-438F-83A9-192617D97326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EllipsePlugin", "EllipsePlugin\EllipsePlugin.csproj", "{BFB5168E-946F-4E89-8810-42F37FF73CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivingPlugin", "ArchivingPlugin\ArchivingPlugin.csproj", "{AE2C0AFC-CF9E-4AA2-9170-D4C304564960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79231420-6BEA-438F-83A9-192617D97326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79231420-6BEA-438F-83A9-192617D97326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79231420-6BEA-438F-83A9-192617D97326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79231420-6BEA-438F-83A9-192617D97326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB5168E-946F-4E89-8810-42F37FF73CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB5168E-946F-4E89-8810-42F37FF73CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB5168E-946F-4E89-8810-42F37FF73CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB5168E-946F-4E89-8810-42F37FF73CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2C0AFC-CF9E-4AA2-9170-D4C304564960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2C0AFC-CF9E-4AA2-9170-D4C304564960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2C0AFC-CF9E-4AA2-9170-D4C304564960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2C0AFC-CF9E-4AA2-9170-D4C304564960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
